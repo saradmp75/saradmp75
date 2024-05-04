@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saradmp75
 - 👀 I’m interested in programming and datascience
-- 🌱 I’m currently learning BS physics research 
+- 🌱 I’m currently a BS physics research student
 - 💞️ I’m looking to collaborate on any projects i can handle with my minimal knowledge
 - 📫 How to reach me https://www.linkedin.com/in/sarad-m-p-507542304
 - 😄 Pronouns: he/him
